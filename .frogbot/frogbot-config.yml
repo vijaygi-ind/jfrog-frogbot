@@ -1,6 +1,6 @@
 - params:
     git:
-      repoName: frogbot
+      repoName: jfrog-frogbot
       branches:
         - dev
     scan:
